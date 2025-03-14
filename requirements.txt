@@ -1,0 +1,8 @@
+streamlit
+graphviz
+langchain
+langgraph
+groq
+mysql-connector-python
+requests
+python-dotenv
